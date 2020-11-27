@@ -40,6 +40,6 @@
     }
 
     // 调用调整面板
-    TilsetMatrixPanel(viewer, { tileModelParam: tileModelParam })
+    TilesetMatrixPanel(viewer, { tileModelParam: tileModelParam })
 
 ```
